@@ -40,7 +40,7 @@ A standalone, real-time vision-based 5-DOF robotic arm powered by **Raspberry Pi
                           (I2C Bus)
                                ▼
 [5V 5A PSU] ──▶ [PCA9685 16-Ch PWM Driver] ──▶ [6x Servos (5-DOF Arm)]
-
+```
 
 ---
 
