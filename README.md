@@ -47,3 +47,4 @@ A standalone, real-time vision-based 5-DOF robotic arm powered by **Raspberry Pi
 ## Team Members
 - **Sameh Salama** (Team Leader) — [@samehsalama-ai](https://github.com/samehsalama-ai)
 - Omar Abdelhamid — [@i-omar1](https://github.com/i-omar1)
+- - Ahmed Sabry — [@engahmedsabry327-Igtm](https://github.com/engahmedsabry327-Igtm)
