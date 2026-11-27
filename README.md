@@ -51,3 +51,4 @@ A standalone, real-time vision-based 5-DOF robotic arm powered by **Raspberry Pi
 - Mazen Shokry — [@mazenshokry877-alt](https://github.com/mazenshokry877-alt)
 - Ibrahim elshazly  — [@elshazily](https://github.com/elshazliy)
 - Abdelrahman ali — [@AbdelrahmanAli-Igtm](https://github.com/username)
+- adamwael — [@adam20070707wael-a11y](https://github.com/username)
