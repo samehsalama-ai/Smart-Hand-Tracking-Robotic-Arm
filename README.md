@@ -1,4 +1,4 @@
-- Ibrahim elshazly  — [@elshazily-alt](https://github.com/elshazliy-alt)
+# Smart Hand-Tracking Robotic Arm (5-DOF)
 
 A standalone, real-time vision-based 5-DOF robotic arm powered by **Raspberry Pi 4**. The system tracks human hand landmarks and gestures using embedded Computer Vision (**OpenCV** & **MediaPipe**) and translates them into smooth, real-time servo movements without requiring an external PC or laptop.
 
@@ -49,4 +49,6 @@ A standalone, real-time vision-based 5-DOF robotic arm powered by **Raspberry Pi
 - Omar Abdelhamid — [@i-omar1](https://github.com/i-omar1)
 - Ahmed Sabry — [@engahmedsabry327-Igtm](https://github.com/engahmedsabry327-Igtm)
 - Mazen Shokry — [@mazenshokry877-alt](https://github.com/mazenshokry877-alt)
+- Ibrahim elshazly  — [@elshazily-alt](https://github.com/elshazliy-alt)
+
 
